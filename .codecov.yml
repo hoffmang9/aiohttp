@@ -14,7 +14,7 @@ flags:
     paths:
     - aiohttp/
   configs:
-    paths:
+
     - requirements/
     - ".git*"
     - "*.toml"
